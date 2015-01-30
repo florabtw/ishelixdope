@@ -9,16 +9,16 @@ body {
   justify-content: center;
   background: black;
   color: white;
-  font-family: Helvetica, Arial, sans-serif;
+  font-family: Verdana, Arial, sans-serif;
 }
 
 .flex-container {
-  max-width: 50%;
+  max-width: 90%;
   text-align: center;
 }
 
 h1 {
-  font-size: 15em;  
+  font-size: 10em;
   margin: 0;
   padding: 0;
 }
