@@ -1,14 +1,10 @@
 {
-  "name": "isrebeccadope",
+  "name": "ishelixdope.com",
   "version": "1.0.0",
   "description": "yes",
   "scripts": {
     "docker": "./scripts/docker.sh"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/ncpierson/isrebeccadope.git"
-  },
-  "author": "Nick Pierson",
+  "author": "Flora Moon",
   "license": "MIT"
 }
